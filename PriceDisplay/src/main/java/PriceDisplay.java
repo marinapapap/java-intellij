@@ -5,7 +5,7 @@ public class PriceDisplay {
 
     String getPriceLabel(String item, Double price) {
         String p = Double.toString(price);
-        String label = String.format("The price for item: %s is %,.2f", item, p);
+        String label = String.format("The price for item: %s is %s", item, p);
         return label;
     }
 }
