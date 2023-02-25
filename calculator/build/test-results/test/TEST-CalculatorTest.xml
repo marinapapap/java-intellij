@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-23T19:21:58" hostname="Marinas-Air.fritz.box" time="0.006">
+<testsuite name="CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-25T17:17:53" hostname="Marinas-Air.fritz.box" time="0.007">
   <properties/>
-  <testcase name="testAddsTwoAndTwo()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="testAddsTwoAndTwo()" classname="CalculatorTest" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
