@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TodoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-02-26T17:41:33" hostname="Marinas-Air.fritz.box" time="0.007">
+<testsuite name="TodoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-02-26T18:39:25" hostname="Marinas-Air.fritz.box" time="0.01">
   <properties/>
-  <testcase name="testReturnsEmptyListFromMethod()" classname="TodoTest" time="0.006"/>
-  <testcase name="testReturnsEmptyListFromVariable()" classname="TodoTest" time="0.0"/>
+  <testcase name="shouldStartWithEmptyList()" classname="TodoTest" time="0.006"/>
+  <testcase name="addsTwoTasksAndReturnsList()" classname="TodoTest" time="0.001"/>
+  <testcase name="addsOneTaskAndReturnsList()" classname="TodoTest" time="0.001"/>
+  <testcase name="getsEmptyList()" classname="TodoTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
