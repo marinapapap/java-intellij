@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PriceDisplayTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-25T19:26:57" hostname="Marinas-Air.fritz.box" time="0.008">
+<testsuite name="PriceDisplayTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-26T11:11:57" hostname="Marinas-Air.fritz.box" time="0.008">
   <properties/>
   <testcase name="testDisplaysItemWithPrice()" classname="PriceDisplayTest" time="0.008"/>
   <system-out><![CDATA[]]></system-out>
