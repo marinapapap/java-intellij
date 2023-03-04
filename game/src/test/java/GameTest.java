@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 public class GameTest {
     @Test public void testGetsWordToGuess() {
         Game game = new Game("MAKERS");
-        assertEquals("MAKERS", game.getWordToGuess());
+        assertEquals("M_____", game.getWordToGuess());
     }
 }
 

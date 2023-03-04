@@ -3,10 +3,13 @@ public class Game {
     Game(String word) {
         wordToBlank = word;
     }
-    public static void main() {
+    public static void main(String[] args) {}
 
-    }
     public String getWordToGuess() {
-        return wordToBlank;
+        StringBuilder sb = new StringBuilder(wordToBlank);
+        for(int i = 1; i < wordToBlank.length(); i++) {
+            sb.replace(i, wordToBlank.length(), "_");
+        }
+        return sb.toString();
     }
 }
